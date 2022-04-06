@@ -1,5 +1,4 @@
 # Predict Cover Types
-Cancel changes
 The goal of this project is to solve the Forest Cover Type Classification Problem. The problem involved the prediction of the Forest Cover Type (the predominant kind of tree cover), using cartographic variables. The study area was situated in the Roosevelt National Forest of northern Colorado and contains four wilderness areas. This integer classification problem consisted of seven Forest Cover Types (target variable), which were Spruce/Fir, Lodgepole Pine, Ponderosa Pine, 
 Cottonwood/Willow, Aspen, Douglas-fir and Krummholz.
 The dataset contains 15.120 observations (training set) with the features and the target variable, while the test set contains only the features. Each observation corresponds with a 30x30 metres patch ofthe forest. 
