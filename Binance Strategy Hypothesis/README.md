@@ -7,8 +7,8 @@ The tecnologies used were:
 - Spark for Batch and Stream Proccesing
 - MariaDB as Serving Layer
 
-Note: It was done in a virtual machine created for the course
-
 
 Explanation of Data Pipeline
 ![Expanation](explanation.png)
+
+Note: It was done in a virtual machine created for the course
