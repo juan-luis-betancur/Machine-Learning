@@ -5,4 +5,4 @@ The objective of the project is to predict the stream flow of a river according 
 - Random Forest
 
 ## Findings
-The best models according to the root mean squared error to predict the stream flow are the regression model using an arima for the residuals, and the random forest taking into account the past of Y
+The best models to predict the stream flow according to a back test of 100 samples (one step ahead) using as metric the root mean squared error, are the regression model using an arima for the residuals, and the random forest taking into account the past of Y
