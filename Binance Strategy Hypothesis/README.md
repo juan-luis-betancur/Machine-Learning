@@ -6,6 +6,7 @@ The tecnologies used were:
 - Kafka for Streaming Storage
 - Spark for Batch and Stream Proccesing
 - MariaDB as Serving Layer
+
 Note: It was done in a virtual machine created for the course
 
 
