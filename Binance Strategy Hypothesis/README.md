@@ -9,5 +9,5 @@ The tecnologies used were:
 Note: It was done in a virtual machine created for the course
 
 
-![image](https://user-images.githubusercontent.com/97734054/161953065-b600109c-220e-49ee-8c31-c9c5ce867662.png)
+Explanation of Data Pipeline
 ![Expanation](explanation.png)
