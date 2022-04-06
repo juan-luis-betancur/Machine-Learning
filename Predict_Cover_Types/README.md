@@ -7,10 +7,10 @@ The dataset contains 15.120 observations (training set) with the features and th
 ## Findings:
 The final model selected for the predictions was a XGBoost model, which generated the highest accuracy, recall and precision compared to the different models tested to predict the cover type. The model was very successful to predict the cover types. The most significant features used to predict were those related to area types, soil types in addition to all the features related to elevation. The final model’s prediction accuracy against the test was 89.2%, against the kaggle test set was 79,1%
 
-## Future improvements:
+### Future improvements:
 In order to improve the prediction accuracy is important to find features that can diffrentiate between the Spruce/Fir and Lodgepole Pine cover type, with this two classes having the highest number of missclassified elements 
 
-## How it works
+### How it works
 the notebook needs the following files to run.
 - an excel file with aditional information about the soils
 - the train set and test set available in https://www.kaggle.com/competitions/forest-cover-type-prediction/data
