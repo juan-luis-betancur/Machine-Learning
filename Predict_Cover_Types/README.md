@@ -11,6 +11,6 @@ The final model selected for the predictions was a XGBoost model, which generate
 In order to improve the prediction accuracy is important to find features that can diffrentiate between the Spruce/Fir and Lodgepole Pine cover type, with this two classes having the highest number of missclassified elements.
 
 ### How it works
-the notebook needs the following files to run:
-- an excel file with aditional information about the soils
-- the train set and test set available in https://www.kaggle.com/competitions/forest-cover-type-prediction/data
+The notebook needs the following files to run:
+- Excel file with aditional information about the soils
+- Train set and test set available in https://www.kaggle.com/competitions/forest-cover-type-prediction/data
